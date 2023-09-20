@@ -1,0 +1,23 @@
+{
+    "utilizadores":
+    [
+        {
+            "id": 1,
+            "nome": "Jonathas Azer",
+            "email": "jonathasazer@gmail.com",
+            "senha": "123@321"
+        },
+        {
+            "id": 2,
+            "nome": "Pedro Remoaldo",
+            "email": "premoaldo@gmail.com",
+            "senha": "123premoaldo"
+        },
+        {
+            "id": 3,
+            "nome": "User Teste",
+            "email": "teste@gmail.com",
+            "senha": "123testando"
+        }
+    ]
+}
